@@ -43,38 +43,6 @@ I value structured thinking, reproducibility, and continuous improvement in ever
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rizki0907&hide_border=true" />
 </p>
-
----
-
-## 📂 Portfolio Highlights
-🔹 **Sentiment Analysis (IndoBERT & LDA)**  
-Natural Language Processing project for Indonesian text sentiment classification and topic modeling.
-
-🔹 **SMARTSAVE**  
-Personal finance application with GUI built using Python, focusing on budgeting logic and usability.
-
-🔹 **Pharmora**  
-Pharmacy management system with CRUD operations and structured data handling.
-
-🔹 **Data Mining & Classification Projects**  
-Various projects involving preprocessing, modeling, and evaluation on structured datasets.
-
-> 📌 Projects are continuously improved and documented.
-
----
-
-## 🎯 Current Focus
-- Building portfolio-ready data science projects
-- Improving documentation & code structure
-- Exploring freelance & remote data-related opportunities
-- Deepening applied ML and NLP skills
-
----
-
-## 📫 Contact
-- GitHub: https://github.com/Rizki0907  
-- LinkedIn: *(will be added)*  
-
 ---
 
 <p align="center">
